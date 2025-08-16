@@ -26,7 +26,7 @@ import 'package:on_audio_query_platform_interface/on_audio_query_platform_interf
 export 'package:on_audio_query_platform_interface/on_audio_query_platform_interface.dart';
 
 // Controllers
-part 'src/on_audio_query.dart';
+export 'src/on_audio_query.dart';
 
 // Widgets
-part 'widget/query_artwork_widget.dart';
+export 'widget/query_artwork_widget.dart';
